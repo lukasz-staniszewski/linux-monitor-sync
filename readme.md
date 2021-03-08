@@ -1,4 +1,4 @@
-# SOI – Laboratorium 4 – Monitory
+# SOI – Laboratorium – Monitory
 #### ŁUKASZ STANISZEWSKI
 
 ## 1. Polecenie
